@@ -1,0 +1,67 @@
+.texto_menu {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #8b735d;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: hsl(0, 0%, 0%);
+    font-size: 20px;
+    margin-left: 5px;
+    text-align: center;
+}
+
+.background {
+    background-image: url(Imagens/fundo.png);
+    width: 100%;
+    margin: 10px;
+}
+
+.cabecalho {
+    width: 900px;
+    height: 388px;
+    margin: 0;
+    margin-left: 10px;
+}
+
+.menus {
+    padding-bottom: 0%;
+    width: 900px;
+    height: 100px;
+    background-color: hsl(34, 16%, 62%) ;
+    margin-top: -10px;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about_me {
+    width: 900px;
+    background-color: hsl(35, 89%, 93%);
+    margin-top: -10px;
+    margin-left: 10px;
+}
+
+.direitos {
+    width: 900px;
+    background-color: hsl(34, 16%, 62%) ;
+    margin-top: -15px;
+    margin-left: 10px;
+}
+
+.p {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 20px;
+    margin-left: 5px;
+}
