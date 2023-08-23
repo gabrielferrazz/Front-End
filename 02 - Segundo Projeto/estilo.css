@@ -1,86 +1,39 @@
-.texto_menu {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    text-align: center;
-    
-}
-
-.negrito {
-    font-weight:900;
-}
-
-.h1 {
-    font-family: 'Times New Roman', Times, serif;
-    color: #8b735d;
-    font-size: 20px;
-    margin-left: 10px;
-}
-
-.h2 {
-    font-family: 'Times New Roman', Times, serif;
-    color: hsl(0, 0%, 0%);
-    font-size: 20px;
-    margin-left: 10px;
-    text-align: center;
-}
-
 body {
     background: #d2d2c1 url(Imagens/fundo.png);
     font: 16px Arial, Helvetica, sans-serif;
 }
 
 #principal {
-    width: 900pc;
+    width: 900px;
 }
 
-.menu {
+#menu {
     background: #c5c5b2;
-    border: 1px solid red;
     padding: 18px;
-        
 }
 
-
-.cabecalho {
-    width: 900px;
-    height: 388px;
-    margin: 0;
-    margin-left: 10px;
-}
-
-
-
-.about_me {
-    width: 900px;
-    background-color: rgb(231, 210, 181);
-    margin-top: -10px;
-    margin-left: 10px;
-}
-
-.direitos {
-    width: 900px;
-    background-color: hsl(34, 16%, 62%) ;
-    margin-top: -15px;
-    margin-left: 10px;
-}
-
-.p {
-    font-family: 'Times New Roman', Times, serif;
-    color: black;
-    font-size: 20px;
-    margin-left: 10px;
+#about_me {
+    background: #e8e8d9;
+    padding: 10px;
 }
 
 a {
     color: #4b566a;
     text-decoration: none;
     font-weight: bold;
-    border: 1px solid red;
+    padding: 5px;
 }
 
-.imagem {
-    border-color: #685747;
-    margin-left: 10px;
-    border-style: solid;
-    border-width: 5px 5px 5px 5px;
+#direitos {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.img_campanha {
+    border: 10px solid #c3c3ae;
 }
